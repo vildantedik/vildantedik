@@ -8,7 +8,7 @@ Havacılık ve savunma sanayii kapsamındaki projelerde algı sistemleri (segmen
 
 ## 🔒 Gizlilik notu
 
-Savunma ve havacılık sanayii kapsamında yürütülen projeler gizlilik sözleşmeleri nedeniyle herkese açık değildir ve bu profilde paylaşılmamıştır. Bu profildeki açık projeler, aynı alanlardaki temel becerileri (görüntü işleme, derin öğrenme, gömülü sistemler) gösteren çalışmalardır. Gizlilik sınırları içinde kalan ayrıntılar görüşmelerde memnuniyetle paylaşılır.
+Savunma ve havacılık sanayii kapsamında yürütülen projeler gizlilik sözleşmeleri nedeniyle herkese açık değildir ve bu profilde paylaşılmamıştır. Bu profildeki açık projeler, aynı alanlardaki temel becerileri (görüntü işleme, derin öğrenme, gömülü sistemler) gösteren çalışmalardır.
 
 ## 🧰 Çalışma alanları
 
